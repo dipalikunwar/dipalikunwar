@@ -22,7 +22,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dipalikunwar&show_icons=true&theme=radical) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipalikunwar&layout=compact)](https://ionicabizau.github.io/github-profile-languages/api.html?dipalikunwar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dipalikunwar)](https://github.com/dipalikunwar/github-readme-stats)
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dipalikunwar&repo=leap_non_leap_year_project)](https://github.com/dipalikunwar/leap_non_leap_year_project)
