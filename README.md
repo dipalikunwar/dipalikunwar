@@ -2,10 +2,10 @@
 ### <div align="center">Lovely Professional University, Punjab, India</div>
 
 <a href="https://www.linkedin.com/in/dipali-kunwar">
-  <img align="left" alt="Pramatma Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Dipali Kunwar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/dipalikunwar">
-  <img align="left" alt="Vishal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Dipali's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 </br>
